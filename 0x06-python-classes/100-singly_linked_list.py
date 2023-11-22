@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 # -----------------------------------------------------------
+"""Singly-Linked List Module.
 
+This module contains classes for a SinglyLinkedList.
+"""
 
 class Node:
     """Defines a node of a singly linked list.
