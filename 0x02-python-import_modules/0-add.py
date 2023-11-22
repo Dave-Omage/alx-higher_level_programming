@@ -3,8 +3,7 @@
 # Python program that:
 # demonstrates how to import a function def add(a, b): from the
 # file add_0.py and print the result of the addition 1 + 2 = 3
-#
-
+# -----------------------------------------------------------
 
 # Import the add function
 from task import add
