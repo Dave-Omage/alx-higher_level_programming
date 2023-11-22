@@ -5,6 +5,7 @@
 This module contains classes for a SinglyLinkedList.
 """
 
+
 class Node:
     """Defines a node of a singly linked list.
 
