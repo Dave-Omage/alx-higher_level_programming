@@ -71,4 +71,4 @@ class Square:
 
     def __le__(self, o):
         """Defined the <= comparison"""
-        return self.__size <= o.
+        return self.__size <= o
