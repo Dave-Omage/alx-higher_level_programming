@@ -16,5 +16,4 @@ Usage Example:
 
 class Square:
     """Defines the blueprint of a square"""
-
     pass
