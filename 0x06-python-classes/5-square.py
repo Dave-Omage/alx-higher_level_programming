@@ -5,6 +5,7 @@
 This module contains a class that defines a square.
 """
 
+
 class Square:
     """Defines the blueprint of a square.
 
